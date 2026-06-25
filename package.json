@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-business-feeds",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Business Feeds MCP.",
   "type": "module",
   "main": "src/index.ts",

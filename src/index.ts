@@ -54,6 +54,7 @@ const FEEDS: Record<string, FeedDef> = {
   'waste-dive': { title: "Waste Dive", url: "https://www.wastedive.com/feeds/news/", category: "business", source: "wastedive.com", description: "Waste & recycling-industry news" },
   'packaging-dive': { title: "Packaging Dive", url: "https://www.packagingdive.com/feeds/news/", category: "business", source: "packagingdive.com", description: "Packaging-industry news" },
   'social-media-today': { title: "Social Media Today", url: "https://www.socialmediatoday.com/feeds/news/", category: "marketing", source: "socialmediatoday.com", description: "Social media & digital marketing" },
+  'arxiv-econ': { title: "arXiv econ", url: "https://rss.arxiv.org/rss/econ", category: "economics", source: "arxiv.org", description: "arXiv Economics preprints (econ)" },
 };
 
 const tools: McpToolExport['tools'] = [
