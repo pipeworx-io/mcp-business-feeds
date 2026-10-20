@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-business-feeds",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Business Feeds MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-aa5f6dc009223cf8e4848f6fb6019d630c6320e1a4be7d96b4ffca2a73193eed",
-    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
+    "sourceHash": "v1-3aff99524478dcf1834b15a68934d47da91a99c8706951fb9193de8026724636",
+    "sourceCommit": "5d8d3a58a457b8464c117515d81b8b6ecb53fdfb"
   }
 }
