@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-business-feeds",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Business Feeds MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "business-feeds",
     "gatewaySlug": "business-feeds",
-    "sourceHash": "v1-7dc59dbd3bb1ecbb8d15f968af3c3088358841b6ee3105a99e85e469ecf8033f",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-b970c9c6cc868ca0aa57492cdb4460cf5bed6444769aee03317b2969314bf8a9",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
